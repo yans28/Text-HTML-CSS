@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+h1{
+    background: linear-gradient(to right, #F2FCFC 0%, #0245A3 100%);
+    background-clip: text;
+    color: transparent;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 300px;
+}
